@@ -1,0 +1,27 @@
+Aplikasi pertama yang dicoba untuk dibuat telah berjalan dengan baik.
+Aplikasi pertama yang dibuat bertujuan untuk melist apa saja sensor-sensor yang dimiliki oleh device. Device android di tempat saya install memiliki beberapa sensor yaitu:
+1. Accelerometer
+2. Magnetometer
+3. Orientation
+4. AK09918-pseudo-gyro
+5. Light
+6. Proximity
+7. Gravity
+8. Linearaccel
+9. Rotation_vector
+10. Significant_motion
+11. Step_detector
+12. Step_counter
+13. Device_orientation
+14. Angle_judge
+15. AMD
+16. Raiseup_detect
+17. Putdown_detect
+18. Angle_direction
+19. Game rotation vector sensor
+20. GeoMag rotation vector sensor.
+
+Aplikasi kedua yang dicoba untuk dibuat juga telah berjalan dengan baik
+Aplikasi kedua bertujuan untuk mendeteksi sensor light dan proximity yang ada di device.
+Light merupakan tipe sensor hardware yang mengukur level ambient light (illumination) dalam lx.
+Proximity merupakan tipe sensor hardware yang mengukur proksimitas/kedekatan sebuah objek dalam satuan cm relatif dengan layar view device. Sensor ini biasanya digunakan untuk menentukan sebuah handset sedang dipegang di telinga orang.
